@@ -3,6 +3,7 @@ package com.example.learning.center.platform.profiles.infrastructure.persistence
 import com.example.learning.center.platform.profiles.domain.model.aggregates.Profile;
 import com.example.learning.center.platform.profiles.domain.model.valueobjects.EmailAddress;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.Optional;

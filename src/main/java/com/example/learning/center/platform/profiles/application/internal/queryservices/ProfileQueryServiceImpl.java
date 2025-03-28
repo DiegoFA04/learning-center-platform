@@ -1,4 +1,4 @@
-package com.example.learning.center.platform.profiles.application.interal.queryservices;
+package com.example.learning.center.platform.profiles.application.internal.queryservices;
 
 import com.example.learning.center.platform.profiles.domain.model.aggregates.Profile;
 import com.example.learning.center.platform.profiles.domain.model.queries.GetAllProfilesQuery;

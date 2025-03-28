@@ -1,4 +1,4 @@
-package com.example.learning.center.platform.profiles.application.interal.commandservices;
+package com.example.learning.center.platform.profiles.application.internal.commandservices;
 
 import com.example.learning.center.platform.profiles.domain.model.aggregates.Profile;
 import com.example.learning.center.platform.profiles.domain.model.commands.CreateProfileCommand;

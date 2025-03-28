@@ -3,6 +3,7 @@ package com.example.learning.center.platform.profiles.interfaces.rest;
 import com.example.learning.center.platform.profiles.domain.model.queries.GetAllProfilesQuery;
 import com.example.learning.center.platform.profiles.domain.model.queries.GetProfileByEmailQuery;
 import com.example.learning.center.platform.profiles.domain.model.queries.GetProfileByIdQuery;
+import com.example.learning.center.platform.profiles.domain.model.valueobjects.EmailAddress;
 import com.example.learning.center.platform.profiles.domain.services.ProfileCommandService;
 import com.example.learning.center.platform.profiles.domain.services.ProfileQueryService;
 import com.example.learning.center.platform.profiles.interfaces.rest.resources.CreateProfileResource;
